@@ -3,4 +3,4 @@ This repository is for my blog NETPro Innovations. All the exercises in the seri
 
 Here is the code from the post [Introduction to Programming in C# – The Hands-on Approach]() which covers how to install Visual Studio 2022 - Community Edition and goes over how to set up and run your first C# program.
 
-[First Program]()
+[First Program](https://github.com/vosjon/NETProInnovations-Foundations/blob/main/Foundations/01FirstProgram/Program.cs)
